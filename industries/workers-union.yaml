@@ -1,0 +1,45 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- DONE
+cargoProduction:
+- WORK
+colour: 1
+fundCostMultiplier: 2
+id: 1
+layout:
+- - - 1
+    - 0
+name: Workers Union
+placement: in-town
+probabilityInGame: 5
+probabilityMapGen: 10
+prospectChance: 0
+tiles:
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      filename: industries/workers-union/2.png
+      left: -31
+      top: 0
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/workers-union/1.png
+      left: -31
+      top: 0
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      filename: industries/workers-union/4.png
+      left: -31
+      top: 0
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/workers-union/3.png
+      left: -36
+      top: -8
+type: secondary
