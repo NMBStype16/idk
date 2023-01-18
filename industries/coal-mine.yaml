@@ -1,16 +1,17 @@
 available: false
 callbacks: ''
 cargoAcceptance: []
-cargoProduction: []
+cargoProduction:
+- COAL
 colour: 1
 fundCostMultiplier: 100
 id: 0
 layout:
 - - - -1
-name: 'New industry #0'
+name: Coal mine
 placement: anywhere
-probabilityInGame: 5
-probabilityMapGen: 3
+probabilityInGame: 1
+probabilityMapGen: 1
 prospectChance: 75
 tiles: []
 type: primary
