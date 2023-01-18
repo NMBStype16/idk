@@ -1,0 +1,17 @@
+abbreviation: WO
+available: false
+classes: 1
+colour: 206
+id: 1
+label: WORK
+longName: workers
+name: Workers
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/workers.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 16
