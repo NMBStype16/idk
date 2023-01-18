@@ -1,0 +1,17 @@
+abbreviation: NE
+available: false
+classes: 1
+colour: 183
+id: 2
+label: NEWC
+longName: done working
+name: done working
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/done-working.png
+  left: 0
+  top: 0
+unitName: Passengers
+weight: 16
