@@ -40,8 +40,8 @@ tiles:
     drawType: recolour
     sprite:
       filename: industries/workers-union/3.png
-      left: -36
-      top: -8
+      left: -31
+      top: 0
 - sprites:
   - alwaysDraw: true
     drawType: recolour
